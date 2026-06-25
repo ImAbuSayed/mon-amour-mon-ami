@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mon-amour-mon-ami/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mon Amour Mon Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-amour-mon-ami/) |
+| **Get License** | [Request Licensing for Mon Amour Mon Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-amour-mon-ami/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mon amour, mon ami, la nuit nous appartient ce soir
+> Dans le club les néons brillent, on se cherche dans le noir
+> Viens plus près, laisse-moi goûter à la fièvre de tes lèvres
+> C'est un jeu si dangereux, mais ton charme me soulève
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
