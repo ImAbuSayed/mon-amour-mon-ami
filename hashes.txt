@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mon Amour Mon Ami
+
+This log tracks the cryptographic history and versioning for the song **Mon Amour Mon Ami** (mon-amour-mon-ami).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:04:18.935798 | `v1` | `536a947ea3b777844ebf85d626b1c4b30c3ca6cbd51b3cdd1714680ce0f9a1a2` | `8f6dec9c97fa57c228cc463ee56748fa022c19bac032204e7772e799351a547c` | `2026-06-25_mon-amour-mon-ami-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

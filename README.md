@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mon-amour-mon-ami/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Mon Amour Mon Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-amour-mon-ami/) |
+| **Get License** | [Secure Licensing Rights for Mon Amour Mon Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-amour-mon-ami/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `536a947ea3b777844ebf85d626b1c4b30c3ca6cbd51b3cdd1714680ce0f9a1a2` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
